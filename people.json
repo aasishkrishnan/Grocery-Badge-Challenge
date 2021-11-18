@@ -1,0 +1,88 @@
+    {
+       
+
+        "grocery":[
+            {
+                "name":"Rice",
+                "quantity":"2",
+                "unit":"Kg",
+                "department":"Grains",
+                "notes":"Fresh grains" 
+            },
+            {
+                "name":"Chilli powder",
+                "quantity":"250",
+                "unit":"g",
+                "department":"Spices",
+                "notes":"Kashmiri"  
+            },
+            {
+                "name":"Sugar",
+                "quantity":"2",
+                "unit":"Kg",
+                "department":"Baking",
+                "notes":"Sweet"  
+            },
+            
+            {
+                "name":"Tomato",
+                "quantity":"500",
+                "unit":"g",
+                "department":"Vegetables",
+                "notes":"Fresh"  
+            },
+
+            {
+                "name":"Salt",
+                "quantity":"1",
+                "unit":"Kg",
+                "department":"Preserves",
+                "notes":"Salty"  
+            },
+
+            {
+                "name":"Fish",
+                "quantity":"1",
+                "unit":"Kg",
+                "department":"Meat",
+                "notes":"Fresh"  
+            },
+
+            {
+                "name":"Milk",
+                "quantity":"1",
+                "unit":"L",
+                "department":"Dairy",
+                "notes":"Fresh"  
+            },
+
+            {
+                "name":"Orange",
+                "quantity":"2",
+                "unit":"Kg",
+                "department":"Fruits",
+                "notes":"Fresh"  
+            },
+
+            {
+                "name":"Egg",
+                "quantity":"10",
+                "unit":"No:",
+                "department":"Dairy",
+                "notes":"NA"  
+            },
+
+            {
+                "name":"Sambar Podi",
+                "quantity":"100",
+                "unit":"g",
+                "department":"Spices",
+                "notes":"Kitchen Fresh"  
+            } 
+
+
+
+
+        ]
+        
+    }
